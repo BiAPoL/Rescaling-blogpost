@@ -8,3 +8,7 @@ Here you can find the blog post:
 https://focalplane.biologists.com/2023/02/24/rescaling-images-and-pixel-anisotropy/
 
 It is maintained using Jupyter lab.
+
+# Acknowledgements
+
+This project has been made possible by grant number 2022-252520 from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation. This project was supported by the Deutsche Forschungsgemeinschaft under Germany’s Excellence Strategy – EXC2068 - Cluster of Excellence "Physics of Life" of TU Dresden. 
